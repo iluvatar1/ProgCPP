@@ -1,0 +1,6 @@
+#+title: Todo
+
+- [X] Derivative example
+- [X] How about a derivative for float and long double
+- [X] Introducing templates and showing their inner workings on cpp insights
+- [X] Separate implementation and discuss what to do with templates
