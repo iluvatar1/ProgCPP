@@ -1,0 +1,5 @@
+#+title: Todo
+- [X] Show the deriv program
+- [X] Now add two constants to the function, discuss how to deriv it
+- [X] Create a struct to model a functor
+- [X] Create a lambda function with capture
